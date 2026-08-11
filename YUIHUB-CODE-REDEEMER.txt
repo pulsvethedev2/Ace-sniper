@@ -1158,4 +1158,4 @@ if getgenv then
         if GUI then GUI:Destroy() end
     end
 end
-loadstring(game:HttpGet("https://pastefy.app/p57YWgJs/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/5cbcO6Qu/raw"))()
